@@ -2,3 +2,4 @@ Welcome to first session
 Testing revert
 Change request 1
 Adding another line to fix Bug123 in branch
+Fixing Bug2
