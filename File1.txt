@@ -6,3 +6,4 @@ Fixing Bug2
 Adding a new line done by another team member
 Adding second line
 Adding fourth line
+Adding third line
